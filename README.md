@@ -1,5 +1,5 @@
 # Contrail-Classifier
-Distinguishes clouds from contrails.
+Classifies contrails from images of clouds using convolutional neural networks.
 
 Authors:
 Hayden Quilty
